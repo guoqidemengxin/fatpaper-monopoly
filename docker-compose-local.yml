@@ -1,4 +1,4 @@
-version: '0.0.1'
+version: '3.8' //version: '2'：适用于 Docker Compose 1.6.0 到 1.25.0；version: '3'：适用于 Docker Compose 1.25.0 到 1.29.0；version: '3.8'：适用于 Docker Compose 1.29.0 以上
 services:
   web:
     container_name: 'web'
